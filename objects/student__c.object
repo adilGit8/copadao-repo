@@ -184,7 +184,11 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+<<<<<<< HEAD
 	 <fields>
+=======
+<fields>
+>>>>>>> bc9a49207308138f89ee55691e296f097e6e78de
         <fullName>region__c</fullName>
         <externalId>false</externalId>
         <label>region</label>
