@@ -177,7 +177,17 @@
     </fields> <fields>
         <fullName>last_Name__c</fullName>
         <externalId>false</externalId>
-        <label>first Name</label>
+        <label>last Name</label>
+        <length>30</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+	 <fields>
+        <fullName>region__c</fullName>
+        <externalId>false</externalId>
+        <label>region</label>
         <length>30</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
